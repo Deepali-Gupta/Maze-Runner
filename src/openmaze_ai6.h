@@ -1,0 +1,11 @@
+extern std::string ipaddress[6];
+extern std::string playername[6];
+extern float x_at[6];
+extern float y_at[6];
+extern int my_id;
+extern float rot_player[6];
+extern float is_shoot[6];
+extern int flag[16][9];
+extern int TOTAL_PLAYERS;
+extern int flag2[16][9];
+extern int score[6];
